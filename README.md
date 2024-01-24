@@ -1,6 +1,6 @@
 ### 👋 Hello there!
 
-#### 📊 Data Science Enthusiast | 💻 Software Development Aficionado
+#### 📊 Data Science Enthusiast | 💻 Enthusiastic about software development
 
 I am deeply fascinated by the interplay of Data Science, Software Development, and advanced computational fields. My experience spans Front-End and Full-Stack Development, with a strong advocacy for free and open-source software. I am particularly captivated by the intricacies of Operations Research, Evolutionary Computing, and Machine Learning, exploring how these disciplines can revolutionize technology and problem-solving.
 
