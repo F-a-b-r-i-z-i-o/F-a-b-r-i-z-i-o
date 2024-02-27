@@ -11,7 +11,7 @@ I am deeply fascinated by the interplay of Data Science, Software Development, a
 - 💬 **Topics of Interest**: Keen on discussing **Operations Research**, **Evolutionary Computing**, **Machine Learning**, **web development**, **user experience design**, **software architecture**
 - 🎓 **Education**:
     - Bachelor's in Computer Science
-    - Master's in Computer Science (Artificial Intelligence) in progress...
+    - Master's in Computer Science (Artificial Intelligence)
 - ❤️ **Professional Passions**: Melding data science with web development, enriching user experiences, crafting scalable software solutions, and pushing the boundaries in AI and computational research.
 
 
