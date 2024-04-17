@@ -7,7 +7,7 @@ I am deeply fascinated by the interplay of Data Science, Software Development, a
 - 🚀 **Advocacy**: Strong supporter of free and open-source software
 - 🛠️ **Tech Stack**:
     - **Languages**: `Python`, `JavaScript`, `TypeScript`, `C/C++`
-    - **Tools**: `GitFlow`, `Docker`
+    - **Tools**: `Git/GitFlow`, `Docker`
 - 💬 **Topics of Interest**: Keen on discussing **Operations Research**, **Evolutionary Computing**, **Machine Learning**, **web development**, **user experience design**, **software architecture**
 - 🎓 **Education**:
     - Bachelor's in Computer Science
